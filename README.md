@@ -106,7 +106,7 @@ Talk to me about:
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" height='32px'/> 
  </a>
 <a href="https://www.ionic.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" height='32px'/>
+    <img align="left" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" height='32px'/>
 </a>
 <a href="https://www.docker.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" height='32px'/> 
