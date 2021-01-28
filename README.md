@@ -80,6 +80,12 @@ Talk to me about:
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" height='32px'/> </a>
 
+
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" align="left" alt="git" height='32px'/> </a>
+
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" align="left" alt="git" height='32px'/> </a>
+
+
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="figma" height='32px'/> </a>
 <br>
 
