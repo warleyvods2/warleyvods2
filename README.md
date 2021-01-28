@@ -83,6 +83,17 @@ Talk to me about:
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="figma" height='32px'/> </a>
 <br>
 
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="figma" height='32px'/> </a>
+<br>
+
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="figma" height='32px'/> </a>
+<br>
+
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="figma" height='32px'/> </a>
+<br>
+
+
+
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 
