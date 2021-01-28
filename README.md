@@ -30,6 +30,7 @@
 
 I'm student Bachelors's in Computer Engineer 🎓 from Federal University of Goias 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
+##
 
 ### Talking about Personal Stuffs:
 - 🛠 &nbsp; I’m currently working with Java, Springboot, Angular, <br /> Typescript, Ionic, Javascript, etc.
@@ -37,6 +38,7 @@ I'm student Bachelors's in Computer Engineer 🎓 from Federal University of Goi
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/warleyvods).
 - 📫 &nbsp; How to reach me: warleyvods@gmail.com.
 
+##
 
 ### My Absolute Favorites:
 
@@ -46,6 +48,7 @@ I'm student Bachelors's in Computer Engineer 🎓 from Federal University of Goi
 - 👾 &nbsp; Play videogames & animes <3
 
 
+##
 ### ⚡ Technologies
 Talk to me about:
 - Mobile application development using **Flutter**
@@ -53,10 +56,10 @@ Talk to me about:
 - Backend development-**Firebase, Java (Springboot)**
 
 
-<br>
 
+#
 ### Languages and Tools:
-<div align="center">
+
 <a href="https://www.python.org" target="_blank">
     <img align="left" alt="Python" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 </a>
@@ -115,7 +118,7 @@ Talk to me about:
 <a href="https://www.docker.io/" target="_blank">
     <img align="left" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" height='32px'/> 
 </a>
-</div>
+
 
 
 
@@ -134,4 +137,3 @@ Talk to me about:
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
