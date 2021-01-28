@@ -103,7 +103,7 @@ Talk to me about:
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" align="left" alt="ansible" height='32px'/> 
 </a>
 <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" height='32px'/> 
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" height='34px'/> 
  </a>
 <a href="https://www.ionic.io/" target="_blank">
     <img align="left" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" height='32px'/>
