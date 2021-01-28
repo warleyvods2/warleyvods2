@@ -87,6 +87,8 @@ Talk to me about:
 </div>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
 ###  📫 How to reach me:
 
 [![Twitter Badge](https://img.shields.io/badge/-@ShanuMishra1515-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShanuMishra1515)](https://twitter.com/ShanuMishra1515) 
