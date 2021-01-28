@@ -84,19 +84,21 @@ Talk to me about:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img align="left" alt="JavaScript" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> 
 </a>
+
 <a href="https://www.typescriptlang.org/" target="_blank">
     <img align="left" alt="Typescirpt" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 </a>
+
+
+<br/>
 <a href="https://reactjs.org/" target="_blank">
     <img align="left" alt="React" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
 </a>
 
-
-
-<br/>
 <a href="https://nodejs.org" target="_blank">
     <img align="left" alt="Node.js" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> 
 </a>
+
 <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" height='32px'/> 
 </a>
@@ -116,9 +118,15 @@ Talk to me about:
     <img align="left" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" height='32px'/> 
 </a>
 
+<br/>
+<br/>
+<br/>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warleyvods&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+##
 
 <div align="center">
 
