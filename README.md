@@ -5,7 +5,7 @@
 <a href="https://twitter.com/warleyvods">
   <img align="left" alt="Warley Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/warley-vinicius/">
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Warley LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/12142330088">
@@ -56,7 +56,7 @@ Talk to me about:
 <br>
 
 ### Languages and Tools:
-
+<div align="center">
 <a href="https://www.python.org" target="_blank">
     <img align="left" alt="Python" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 </a>
@@ -115,6 +115,7 @@ Talk to me about:
 <a href="https://www.docker.io/" target="_blank">
     <img align="left" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" height='32px'/> 
 </a>
+</div>
 
 
 
