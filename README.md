@@ -2,7 +2,22 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm student Bachelors's in Computer Engineer 🎓 from Federal University of Goias 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+
+
+### Talking about Personal Stuffs:
+- 🛠 &nbsp; I’m currently working with Java, Springboot, Angular, <br /> Typescript, Ionic, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/warleyvods).
+- 📫 &nbsp; How to reach me: warleyvods@gmail.com.
+
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading tech blogs whenever possible.
+- 🍕 &nbsp; Meetups & Tech events.
+- 👾 &nbsp; Play videogames & animes <3
 
 
 ### ⚡ Technologies
@@ -25,6 +40,12 @@ Talk to me about:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 
 ###  📫 How to reach me:
