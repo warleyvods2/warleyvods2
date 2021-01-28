@@ -17,6 +17,7 @@
 
 
 <br/>
+
 ### Glad to see you here! &nbsp;
 
 I'm student Bachelors's in Computer Engineer 🎓 from Federal University of Goias 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
