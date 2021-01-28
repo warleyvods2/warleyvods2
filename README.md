@@ -1,10 +1,10 @@
-## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+## Hi there, I'm [Warley Vinicius](https://github.com/warleyvods/)<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-I'm Shanu Mishra,an App Developer :iphone: from India who is passionate about technologies.Beside's programming, I enjoy travelling and playing games.
+I'm Warley, an Developer , I'm currently a developer on @Kaizen based in Goiania. I am working on some side projects, learning a couple new dishes, and trying to conquer the world haha. I enjoy travelling and playing games.
 
 
 ### ⚡ Technologies
-Talk to me about
+Talk to me about:
 - Mobile application development using **Flutter,React Native**
 - Web development-**HTML/CSS,Javascript,Django**
 - Backend development-**Firebase,Mysql**
